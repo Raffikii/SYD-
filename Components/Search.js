@@ -1,6 +1,6 @@
 import React from 'react'
 import { StyleSheet, View, Button, TextInput, FlatList, Text } from 'react-native'
-import films from '../Helpers/filmsData'
+import Acceuil from '../Helpers/filmsData'
 import FilmItem from './FilmItem'
 
 class Search extends React.Component {
